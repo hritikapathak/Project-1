@@ -1,1 +1,1 @@
-# Project-1
+This repository contains all code, scripts, and data processing pipelines used for the project titled "Fine-tuning Foundation Models of Genomics for Autism" in partial fulfilment of the requirements for Bachelor of Technology in Biotechnology. 
